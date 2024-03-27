@@ -1,0 +1,194 @@
+body {
+    font-family: "Roboto", sans-serif;
+    color: #434455;
+    background-color: #FFF;
+    margin-left: 156px;
+}
+/* ---------------HEADER------------------------ */
+.header-logo {
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color:  #4d5ae5;
+    text-decoration: none;
+}
+.header-logo-web {
+    color: #2e2f42;
+}
+.ul-nav {
+    list-style: none;
+}
+.nav-list {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #2e2f42;
+text-decoration: none;
+}
+.nav-list:hover {
+    color: #404bbf;
+}
+.nav-list:focus {color: #404bbf;
+}
+/* ---------------------------ADDRESS---------------------- */
+.address {font-style: normal;}
+.ul-address {
+    list-style: none;
+}
+.nav-address {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #434455;
+text-decoration: none;
+font-style: normal;
+}
+.nav-address:hover {color: #404bbf;}
+.nav-address:focus {color: #404bbf;}
+/* ------------------------------SECTION ONE------------- */
+.section-one {background-color: #2e2f42;}
+.top-title {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+font-size: 56px;
+line-height: 1.07;
+letter-spacing: 0.02em;
+text-align: center;
+color: #fff;
+background-color: #2e2f42;
+}
+.order-buttom {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.04em;
+color: #fff;
+background-color: #4d5ae5;
+cursor: pointer;
+}
+.order-buttom:hover {background-color: #404BBF;}
+.order-buttom:focus {background-color:#404BBF;}
+/* ---------------------------SECTION 2---------------------------- */
+.accomplishments-list {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;
+color: #2e2f42;
+cursor: pointer;
+}
+
+.ul-accomplishments {list-style: none;}
+.accomplishments-paragraph {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #434455;
+}
+/* -------------------------------SECTION 3------------------- */
+.team {background-color: #F4F4FD;}
+.team-paragraph {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+font-size: 36px;
+line-height: 1.11;
+letter-spacing: 0.02em;
+text-align: center;
+color: #2e2f42;
+text-transform: capitalize;
+background-color: #FFFFFF;
+}
+.foto {background-color: #FFFFFF;}
+.team-info {background-color: #FFFFFF;}
+.team-list {
+    list-style: none;
+    background-color: #FFFFFF;
+}
+.team-name {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;
+text-align: center;
+color: #2e2f42;
+background-color: #FFFFFF;
+}
+.team-job {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+text-align: center;
+color: #434455;
+background-color: #FFFFFF;
+}
+
+/* -------------------------------SECRION 4--------------- */
+.portfolio-paragraph {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+font-size: 36px;
+line-height: 1.11;
+letter-spacing: 0.02em;
+text-align: center;
+color: #2e2f42;
+text-transform: capitalize;
+}
+.portfolio-name {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;
+color: #2e2f42;
+}
+.portfolio-work {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #434455;
+}
+.portfolio-foto {
+    list-style: none;
+}
+.footer {
+    background-color: #2e2f42;
+}
+/* ------------------------------FOOTER------------------------- */
+.footer-logo {
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
+    text-decoration: none;
+    background-color: #2e2f42;
+}
+.footer-logo-web {
+    color: #f4f4fd;
+}
+.footer-text {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #f4f4fd;
+background-color: #2e2f42;
