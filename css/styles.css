@@ -89,7 +89,7 @@ text-align: center;
 color: #fff;
 background-color: #2e2f42;
 max-width: 496px;
-margin-bottom: 48px;
+margin: 0 auto;
 }
 .order-buttom {
     font-family: "Roboto", sans-serif;
@@ -101,6 +101,9 @@ color: #fff;
 background-color: #4d5ae5;
 cursor: pointer;
 padding: 16px 32px 16px 32px;
+max-width: 496px;
+margin: 0 auto;
+display: block;
 }
 .order-buttom:hover {background-color: #404BBF;}
 .order-buttom:focus {background-color:#404BBF;}
@@ -145,6 +148,8 @@ text-align: center;
 color: #2e2f42;
 text-transform: capitalize;
 background-color: #FFFFFF;
+padding-top: 120px;
+padding-bottom: 72px;
 
 }
 .foto {background-color: #FFFFFF;
@@ -155,6 +160,8 @@ background-color: #FFFFFF;
 .team-list {
     list-style: none;
     background-color: #FFFFFF;
+    padding-top: 232px;
+    padding-bottom: 120px;
 }
 .team-name {
     font-family: "Roboto", sans-serif;
@@ -165,6 +172,7 @@ letter-spacing: 0.02em;
 text-align: center;
 color: #2e2f42;
 background-color: #FFFFFF;
+margin-bottom: 8px;
 }
 .team-job {
     font-family: "Roboto", sans-serif;
@@ -187,6 +195,8 @@ letter-spacing: 0.02em;
 text-align: center;
 color: #2e2f42;
 text-transform: capitalize;
+padding-top: 120px;
+padding-bottom: 120px;
 }
 .portfolio-name {
     font-family: "Roboto", sans-serif;
@@ -195,6 +205,8 @@ font-size: 20px;
 line-height: 1.2;
 letter-spacing: 0.02em;
 color: #2e2f42;
+padding-top: 32px;
+padding-bottom: 64px;
 }
 .portfolio-work {
     font-family: "Roboto", sans-serif;
@@ -203,6 +215,8 @@ font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
 color: #434455;
+padding-top: 8px;
+padding-bottom: 32px;
 }
 .portfolio-foto {
     list-style: none;
@@ -221,9 +235,11 @@ color: #434455;
     color: #4d5ae5;
     text-decoration: none;
     background-color: #2e2f42;
+    
 }
 .footer-logo-web {
     color: #f4f4fd;
+   
 }
 .footer-text {
     font-family: "Roboto", sans-serif;
@@ -233,3 +249,7 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 color: #f4f4fd;
 background-color: #2e2f42;
+max-width: 264px;
+padding-top: 140px;
+padding-bottom: 100px;
+}
