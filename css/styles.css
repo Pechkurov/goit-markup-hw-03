@@ -185,6 +185,9 @@ margin: 0;
 .team {background-color: #F4F4FD;
     padding: 120px 0;
 }
+.team-info {
+    width: calc((100% - 72px) / 4); 
+}
 .container-team {
     padding: 32px 0;
 }
@@ -217,6 +220,7 @@ margin-bottom: 32px;
     background-color: #FFFFFF;
     display: flex;
     gap: 24px;
+    
 }
 .team-name {
     font-family: "Roboto", sans-serif;
